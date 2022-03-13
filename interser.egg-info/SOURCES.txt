@@ -1,0 +1,9 @@
+README.rst
+setup.py
+interser/__init__.py
+interser/__main__.py
+interser.egg-info/PKG-INFO
+interser.egg-info/SOURCES.txt
+interser.egg-info/dependency_links.txt
+interser.egg-info/requires.txt
+interser.egg-info/top_level.txt

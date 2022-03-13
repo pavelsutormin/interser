@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: interser
+Version: 0.1.0
+Summary: Learn a computer
+Home-page: https://github.com/shuds13/pyexample
+Author: Pavel Sutormin
+Author-email: pavel.r.sutormin@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Science/Machine Learning
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
